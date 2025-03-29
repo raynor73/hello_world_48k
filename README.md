@@ -1,0 +1,4 @@
+# Hello World 48k
+
+This is a ZX Spectrum 48k compatible clone. It is called "Hello World" because it has very simple design which completely excludes video signal generation circuitry. I've used [ZX-HD](https://www.bytedelight.com/?product=zx-hd-hdmi-interface-rasperry-pi-zero-complete-set) to connect monitor to the computer. Other equipment(joystik ports, disk interfaces etc) can be attached to edge connector(keep in mind that it does not provide any voltage except +5V, but for modern extension cards this is not a problem as they don't require anything except +5V). Standrad ZX Spectrum keyboard can be usded, though you'll need to find compatible connectors to place on PCB. There are tape in/out and piezoelectric speaker connector available. Piezoelectric speaker should have not less than 50 ohm impedance.
+
